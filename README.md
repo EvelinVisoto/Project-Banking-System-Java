@@ -21,8 +21,8 @@ A simple banking system developed in Java, applying Object-Oriented Programming 
 
 ### How to Run the Project  
 1. Clone the repository;  
-2. Import the project into your preferred IDE (Eclipse, IntelliJ, etc.);  
-3. Compile and run the application;  
+2. Import the project into your preferred IDE (Eclipse, IntelliJ, NetBeans, etc.);  
+3. Compile and run the project;  
 
 ### Author  
 
